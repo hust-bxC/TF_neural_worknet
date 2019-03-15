@@ -1,0 +1,6 @@
+KEEP_PROB = 0.7
+LEARNING_RATE = 1e-2
+BATCH_SIZE = 2
+PARAMETER_FILE = "checkpoint/variable.ckpt"
+MAX_ITER = 10000
+EPOCHS = 1
